@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aawahyedi.kondaproperty.com/sitemap.xml
